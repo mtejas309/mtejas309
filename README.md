@@ -24,7 +24,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtejas309&show_icons=true&locale=en&layout=compact" alt="mtejas309" /></p>
 
-### Hi there 👋
 
 <!--
 **mtejas309/mtejas309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
