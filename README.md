@@ -1,17 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Tejas M</h1>
-<h3 align="center">A passionate Backend Developer </h3>
+<h3 align="center">A passionate FrontEnd Developer </h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-- 🔭 I’m currently working on **Movie rental app**
+- 🌱 I’m currently learning **ReactJS**
 
-- 🌱 I’m currently learning **NodeJS**
-
-- 💬 Ask me about **programming, scripting, and server-side scripting**
+- 💬 Ask me about **programming, scripting, and client-side development.**
 
 - 📫 How to reach me **mtejas309@gmail.com**
-
-- 📄 Initiating My Tech Career Voyage <a href="https://drive.google.com/drive/u/0/folders/1Ez3i3SqoZj1eOdQ_fUzpRgR5c7HC-ug/Tejas_M_Resumne.pdf" target="_blank">Tejas_M_Resumne</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
