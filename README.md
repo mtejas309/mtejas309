@@ -8,7 +8,7 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li>Presently working on <strong>Hampi (Employee Management System)</strong></li>
+  <li> 🔭 I’m currently working on <strong>Hampi (Employee Management System)</strong></li>
   <li>Completed projects:
     <ul>
       <li><a href="https://www.lmg8.tech/" target="_blank">LMG 8 Tech (Company Website)</a></li>
@@ -17,7 +17,7 @@
     </ul>
   </li>
 </ul>
-
+- 🌱 I’m currently learning GO Lang
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tejas-m-b56613225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas m" height="30" width="40" /></a>
@@ -47,14 +47,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtejas309&show_icons=true&locale=en&layout=compact" alt="mtejas309" /></p>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
