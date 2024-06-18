@@ -14,7 +14,7 @@
       <li><a href="https://www.lmg8.tech/" target="_blank">LMG 8 Tech (Company Website)</a></li>
       <li><a href="https://www.synergisticinfra.com/" target="_blank">Synergistic Infra Solution (Builder's Company Website)</a></li>
  
-    </ul>
+
   </li>
 </ul>
 - 🌱 I’m currently learning GO Lang
