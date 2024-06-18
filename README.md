@@ -17,7 +17,7 @@
 
   </li>
 </ul>
-- 🌱 I’m currently learning GO Lang
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tejas-m-b56613225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas m" height="30" width="40" /></a>
