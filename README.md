@@ -8,9 +8,12 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li> 🔭 I’m currently working on <strong>Review System</strong></li>
+  <li> 🔭 I’m currently working on <strong>Procurement System</strong></li>
   <li>Completed projects:
-    <ul>     <li><a href="https://www.myhraki.com/" target="_blank">Myhraki (E-commerce Application for Boutique Products)</a></li>
+    <ul>
+
+  <li><a>Review System</a></li>
+     <li><a href="https://www.myhraki.com/" target="_blank">Myhraki (E-commerce Application for Boutique Products)</a></li>
       <li><a href="https://www.lmg8.tech/" target="_blank">LMG 8 Tech (Company Website)</a></li>
       <li><a href="https://www.synergisticinfra.com/" target="_blank">Synergistic Infra Solution (Builder's Company Website)</a></li>
  
