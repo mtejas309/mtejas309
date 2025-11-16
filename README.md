@@ -6,6 +6,11 @@
 
 - 📫 How to reach me **mtejas309@gmail.com**
 
+<h3 align="left">Portfolio:</h3>
+<p>
+  <a href="https://devfolio-tejas.netlify.app/" target="_blank"><strong>Visit My Portfolio</strong></a>
+</p>
+
 <h3 align="left">Projects:</h3>
 <ul>
   <li> 🔭 I’m currently working on <strong>Procurement System</strong></li>
@@ -15,7 +20,6 @@
       <li><a href="https://www.myhraki.com/" target="_blank">Myhraki (E-commerce Application for Boutique Products)</a></li>
       <li><a href="https://www.lmg8.tech/" target="_blank">LMG 8 Tech (Company Website)</a></li>
       <li><a href="https://www.synergisticinfra.com/" target="_blank">Synergistic Infra Solution (Builder's Company Website)</a></li>
-      <li><a href="https://devfolio-tejas.netlify.app/" target="_blank">My Portfolio</a></li>
     </ul>
   </li>
 </ul>
